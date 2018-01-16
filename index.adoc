@@ -1,7 +1,7 @@
-= The Ramblings of Simon Maple!
+= The Virtual Java User Group!
 :showtitle:
-:page-title: simonmaple.com
-:page-description: Simon Maple's website and blog
+:page-title: virtualjug.com
+:page-description: The Virtual JUG's website and blog
 
 You've successfully set up and deployed an Jekyll website powered by AsciiDoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Jekyll AsciiDoc Quickstart*] project. If everything is in order then changes to the AsciiDoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
 
