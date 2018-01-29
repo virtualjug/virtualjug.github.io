@@ -41,7 +41,7 @@ image::images/ZT-vJUG-v1.png[align="center"]
 | Our *meetup* community can be found on http://meetup.com/virtualjug. We post all our upcoming vJUG sessions, which you'll be notified of through the meetup mailing list. To join our community, click the button below!| | The *slack* channel is a great place to ask technical or non-technical questions from your Java peers! It is also the best place to ask questions of our session speakers during the live events. To join, click the button below!
 |||
 
-| btn:[JOIN MEETUP] | | btn:[JOIN SLACK] |
+| btn:[JOIN MEETUP][link="http://meetup.com/virtualJUG/join"] | | btn:[JOIN SLACK] |
 
 |===
 
