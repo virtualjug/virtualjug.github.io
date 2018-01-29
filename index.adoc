@@ -1,17 +1,77 @@
 = The Virtual Java User Group!
-:showtitle:
-:page-title: virtualjug.com
+:page-title: Virtual JUG
 :page-description: The Virtual JUG's website and blog
+:icons: font
 
-You've successfully set up and deployed an Jekyll website powered by AsciiDoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Jekyll AsciiDoc Quickstart*] project. If everything is in order then changes to the AsciiDoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
+== LIVE SESSION
 
-== What do I do now?
+==== Bookclub: "Java 9 Modularity" by Sander Mak and Paul Bakker (Part 1)
 
-Now that you've set up your website to run with AsciiDoc, you have a ton of options available to you.
+{nbsp} +
 
-[source, html]
-----
-{% for post in site.posts limit: 5 %}
-<a href=".{{ post.url }}">{{ post.navtitle }}</a>
-{% endfor %}
-----
+video::eezSlcpp3OI[youtube, width=100%, height=640]
+
+.Video Quality
+[NOTE]
+For best results, select the highest video resolution in the embedded YouTube settings (click settings cog).
+
+{nbsp} +
+{nbsp} +
+
+image::images/ZT-vJUG-v1.png[align="center"]
+
+{nbsp} +
+{nbsp} +
+
+== PAST SESSIONS
+++++
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vdgZM9XIPUlDGURN9uABC7cILvuIfpyEOurETMjOloY&font=OpenSans-GentiumBook&lang=en&start_at_end=true&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+++++
+
+{nbsp} +
+{nbsp} +
+
+== JOIN THE VJUG
+
+{nbsp} +
+
+[cols="2*^" frame="none" grid="none"]
+|===
+
+| *JOIN MEETUP* | *JOIN SLACK*
+
+| Our meetup community can be found on http://meetup.com/virtualjug. We post all our upcoming vJUG sessions, which you'll be notified of through the meetup mailing list. To join our community, click the button below!| The slack channel is a great place to ask technical or non-technical questions from your Java peers! It is also the best place to ask questions of our session speakers during the live events. To join, click the button below!
+
+|===
+
+{nbsp} +
+{nbsp} +
+
+== THE TEAM
+
+{nbsp} +
+
+[cols="2*^" frame="none" grid="none"]
+|===
+
+| image:images/Simon.jpg[] | image:images/Oleg.jpg[]
+
+| *SIMON MAPLE*
+
+_vJUG Founder/Organiser_
+
+Simon is the Director of Developer Relations at ZeroTurnaround, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser, London Java Community co-leader and RebelLabs author. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.
+
+icon:twitter[link="http://twitter.com/sjmaple"] icon:envelope[link="mailto:sjmaple@gmail.com"] icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
+
+| *OLEG SHELAJEV*
+
+_vJUG Organiser_
+
+Oleg Šelajev is a Developer Advocate. He spends his time testing, coding, writing, giving conference talks, crafting blogposts and reports. Oleg is a part-time lecturer at the University of Tartu and enjoys speaking and participating in Java/JVM development conferences such as JavaOne, GeeCON, DevoxxFR, GeekOut UK and others. In his free time, Oleg plays chess at a semi-grandmaster level, loves puzzles and solving all kinds of problems.
+
+icon:twitter[link="http://twitter.com/shelajev"] icon:envelope[link="mailto:"] icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
+
+|===
+
+{nbsp} +
