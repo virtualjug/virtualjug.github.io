@@ -1,67 +1,203 @@
-<!doctype html>
-<!--[if IE 9]>
-<html class="lt-ie10" lang="en"> <![endif]-->
-<html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+
+<!DOCTYPE HTML>
+<html class="no-js" lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>virtualjug.com</title>
-    <meta name="description" content="The Virtual JUG's website and blog">
-    <meta name="author" content="Your name goes here">
-    <meta name="copyright" content="Maybe consider a Creative Commons license">
+    <title>Virtual JUG</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/font-awesome.css">
     <link rel="stylesheet" href="css/coderay.css">
     <link rel="stylesheet" href="css/asciidoctor.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,800" rel="stylesheet">
     <script src="js/vendor/modernizr.js"></script>
     <script src="js/toc.js"></script>
+    </style>
 </head>
 <body>
 
+<div class="top-bar dark-blue" style="position:fixed;top:0;width:100%; z-index: 999;" >
+    <div class="row ">
+        <div class="top-bar-left">
+            <ul class="dropdown menu" data-dropdown-menu data-click-open="false">
+                <li class="menu-text"><strong>Virtual JUG</strong> | <small>virtualjug.com</small></li>
+            </ul>
+        </div>
+        <div class="top-bar-right">
+            <ul class="dropdown menu" data-dropdown-menu data-click-open="false">
+              <li>
+                  <a href="#"><strong>Join vJUG</strong></a>
+                  <ul class="menu vertical">
+                      <li><a href="http://meetup.com/virtualjug" target="_blank">Join Meetup</a></li>
+                      <li><a href="https://join.slack.com/t/virtualjug/shared_invite/enQtMjY2MTgwNTU5OTc0LTNlMDYyMTMxOTdiODE1NjYwNGZlZTM4OTRlZjMwY2U0MWFkZTQyNGI5MDMzYjVjNDFiOTc3ODAzNjU0NDdlZDc" target="_blank">Join Slack</a></li>
+                  </ul>
+              </li>
+              <li>
+                  <a href="#"><strong>Content</strong></a>
+                  <ul class="menu vertical">
+                      <li><a href="#live">Live Session</a></li>
+                      <li><a href="#past">Past Sessions</a></li>
+                      <li><a href="#podcast">Java Council Podcast</a></li>
+                      <li><a href="#bookclub">Bookclub</a></li>
+                  </ul>
+              </li>
+              <li>
+                <a href="#vjuggernauts"><strong>vJUGgernauts</strong></a>
+              </li>
+              <li>
+                <a href="#"><strong>Sponsors</strong></a>
+                <ul class="menu vertical">
+                    <li><a href="#sponsors">vJUG Sponsors</a></li>
+                    <li><a href="#sponsors">Friends of the vJUG</a></li>
+                </ul>
 
-<!-- Nav Bar -->
+              </li>
+              <li>
+                <a href="#"><strong>vJUG24</strong></a>
+                <ul class="menu vertical">
+                    <li><a href="#cfp">CFP</a></li>
+                    <li><a href="#sponsorship">Sponsorship</a></li>
+                    <li><a href="#jugs">JUGs</a></li>
+                    <li><a href="#vjug242017">2017</a></li>
+                    <li><a href="#vjug242017">2016</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="#"><strong>About</strong></a>
+                <ul class="menu vertical">
+                    <li><a href="#team">Team</a></li>
+                    <li><a href="#coc">CoC</a></li>
+                </ul>
+              </li>
+            </ul>
+        </div>
+    </div>
+</div>
 
-<nav class="top-bar" data-topbar>
-    <ul class="title-area">
-        <!-- Title Area -->
-        <li class="name">
-            <h1>
-                <a href="">Jekyll AsciiDoc Quickstart</a>
-            </h1>
-        </li>
-        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-    </ul>
-</nav>
-<!-- End Nav -->
+<a href="https://github.com/virtualjug/virtualjug.github.io/tree/asciidoc" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#246990; color:#fff; position: absolute; top: 42; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
 
+<image src="images/VirtualJUG-header.jpg"></image>
 
-<!-- Main Page Content and Sidebar -->
+<p/>
+
+<!-- Main Page Content -->
 
 <div class="row">
 
     <!-- Main Blog Content -->
-    <div class="large-9 columns" role="content">
+    <div class="large-12 columns" role="content">
 
-        <h1>The Virtual Java User Group!</h1>
-<div id="preamble">
+        <div class="sect1">
+<h2 id="live_session">LIVE SESSION</h2>
 <div class="sectionbody">
+<div class="sect3">
+<h4 id="bookclub_java_9_modularity_by_sander_mak_and_paul_bakker_part_1">Bookclub: "Java 9 Modularity" by Sander Mak and Paul Bakker (Part 1)</h4>
 <div class="paragraph">
-<p>You&#8217;ve successfully set up and deployed an Jekyll website powered by AsciiDoc using the <a href="https://github.com/asciidoctor/jekyll-asciidoc-quickstart"><strong>Jekyll AsciiDoc Quickstart</strong></a> project. If everything is in order then changes to the AsciiDoc content will be automatically published to your <code>gh_pages</code> branch and hosted via Jekyll and Github.</p>
+<p>&#160;<br></p>
+</div>
+<div class="videoblock">
+<div class="content">
+<iframe width="100%" height="640" src="https://www.youtube.com/embed/eezSlcpp3OI?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Video Quality</div>
+For best results, select the highest video resolution in the embedded YouTube settings (click settings cog).
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>&#160;<br>
+&#160;<br></p>
+</div>
+<div class="imageblock" style="text-align: center">
+<div class="content">
+<img src="images/ZT-vJUG-v1.png" alt="ZT vJUG v1">
+</div>
+</div>
+<div class="paragraph">
+<p>&#160;<br>
+&#160;<br></p>
+</div>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="what_do_i_do_now">What do I do now?</h2>
+<h2 id="past_sessions">PAST SESSIONS</h2>
+<div class="sectionbody">
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vdgZM9XIPUlDGURN9uABC7cILvuIfpyEOurETMjOloY&font=OpenSans-GentiumBook&lang=en&start_at_end=true&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<div class="paragraph">
+<p>&#160;<br>
+&#160;<br></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="join_the_vjug">JOIN THE VJUG</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Now that you&#8217;ve set up your website to run with AsciiDoc, you have a ton of options available to you.</p>
+<p>&#160;<br></p>
 </div>
-<div class="listingblock">
-<div class="content">
-<pre class="CodeRay highlight"><code data-lang="html">{% for post in site.posts limit: 5 %}
-<span class="tag">&lt;a</span> <span class="attribute-name">href</span>=<span class="string"><span class="delimiter">&quot;</span><span class="content">.{{ post.url }}</span><span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>{{ post.navtitle }}<span class="tag">&lt;/a&gt;</span>
-{% endfor %}</code></pre>
+<table class="tableblock frame-none grid-none spread">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><strong>JOIN MEETUP</strong></p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><strong>JOIN SLACK</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-top"><p class="tableblock">Our meetup community can be found on <a href="http://meetup.com/virtualjug" class="bare">http://meetup.com/virtualjug</a>. We post all our upcoming vJUG sessions, which you&#8217;ll be notified of through the meetup mailing list. To join our community, click the button below!</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">The slack channel is a great place to ask technical or non-technical questions from your Java peers! It is also the best place to ask questions of our session speakers during the live events. To join, click the button below!</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>&#160;<br>
+&#160;<br></p>
 </div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="the_team">THE TEAM</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>&#160;<br></p>
+</div>
+<table class="tableblock frame-none grid-none spread">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><span class="image"><img src="images/Simon.jpg" alt="Simon"></span></p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><span class="image"><img src="images/Oleg.jpg" alt="Oleg"></span></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><strong>SIMON MAPLE</strong></p>
+<p class="tableblock"><em>vJUG Founder/Organiser</em></p>
+<p class="tableblock">Simon is the Director of Developer Relations at ZeroTurnaround, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser, London Java Community co-leader and RebelLabs author. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.</p>
+<p class="tableblock"><span class="icon"><a class="image" href="http://twitter.com/sjmaple"><i class="fa fa-twitter"></i></a></span> <span class="icon"><a class="image" href="mailto:sjmaple@gmail.com"><i class="fa fa-envelope"></i></a></span> <span class="icon"><a class="image" href="https://www.linkedin.com/in/simonmaple"><i class="fa fa-linkedin"></i></a></span></p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><strong>OLEG SHELAJEV</strong></p>
+<p class="tableblock"><em>vJUG Organiser</em></p>
+<p class="tableblock">Oleg Šelajev is a Developer Advocate. He spends his time testing, coding, writing, giving conference talks, crafting blogposts and reports. Oleg is a part-time lecturer at the University of Tartu and enjoys speaking and participating in Java/JVM development conferences such as JavaOne, GeeCON, DevoxxFR, GeekOut UK and others. In his free time, Oleg plays chess at a semi-grandmaster level, loves puzzles and solving all kinds of problems.</p>
+<p class="tableblock"><span class="icon"><a class="image" href="http://twitter.com/shelajev"><i class="fa fa-twitter"></i></a></span> <span class="icon"><a class="image" href="mailto:"><i class="fa fa-envelope"></i></a></span> <span class="icon"><a class="image" href="https://www.linkedin.com/in/shelajev"><i class="fa fa-linkedin"></i></a></span></p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>&#160;<br></p>
 </div>
 </div>
 </div>
@@ -70,31 +206,7 @@
 
     <!-- End Main Content -->
 
-    <!-- Sidebar -->
-
-    <aside class="large-3 columns">
-
-        <h4>Posts</h4>
-        <ul id="posts" class="posts nav">
-            
-            <li><a href="./2015/01/01/first-entry.html">First Entry</a></li>
-            
-        </ul>
-
-        <div class="panel">
-            <h5>Featured</h5>
-
-            <p>Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon
-                nulla pork belly cupidatat meatloaf cow.</p>
-        </div>
-
-    </aside>
-
-    <!-- End Sidebar -->
 </div>
-
-<!-- End Main Content and Sidebar -->
-
 
 <!-- Footer -->
 
@@ -109,8 +221,10 @@
     </div>
 </footer>
 
+
+<script src="/js/foundation/foundation.js"></script>
 <script src="js/vendor/jquery.js"></script>
-<script src="js/foundation.min.js"></script>
+<script src="js/foundation/foundation.min.js"></script>
 <script>
 $(document).foundation();
 var doc = document.documentElement;
