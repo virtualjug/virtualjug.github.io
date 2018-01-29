@@ -2,6 +2,7 @@
 :page-title: Virtual JUG
 :page-description: The Virtual JUG's website and blog
 :icons: font
+:experimental:
 
 == LIVE SESSION
 
@@ -29,32 +30,31 @@ image::images/ZT-vJUG-v1.png[align="center"]
 ++++
 
 {nbsp} +
-{nbsp} +
 
 == JOIN THE VJUG
 
 {nbsp} +
 
-[cols="2*^" frame="none" grid="none"]
+[cols="^47,^6,^47" frame="none" grid="none"]
 |===
 
-| *JOIN MEETUP* | *JOIN SLACK*
+| Our *meetup* community can be found on http://meetup.com/virtualjug. We post all our upcoming vJUG sessions, which you'll be notified of through the meetup mailing list. To join our community, click the button below!| | The *slack* channel is a great place to ask technical or non-technical questions from your Java peers! It is also the best place to ask questions of our session speakers during the live events. To join, click the button below!
+|||
 
-| Our meetup community can be found on http://meetup.com/virtualjug. We post all our upcoming vJUG sessions, which you'll be notified of through the meetup mailing list. To join our community, click the button below!| The slack channel is a great place to ask technical or non-technical questions from your Java peers! It is also the best place to ask questions of our session speakers during the live events. To join, click the button below!
+| btn:[JOIN MEETUP] | | btn:[JOIN SLACK] |
 
 |===
 
-{nbsp} +
 {nbsp} +
 
 == THE TEAM
 
 {nbsp} +
 
-[cols="2*^" frame="none" grid="none"]
+[cols="^47,^6,^47" frame="none" grid="none"]
 |===
 
-| image:images/Simon.jpg[] | image:images/Oleg.jpg[]
+| image:images/Simon.jpg[] | | image:images/Oleg.jpg[]
 
 | *SIMON MAPLE*
 
@@ -62,7 +62,9 @@ _vJUG Founder/Organiser_
 
 Simon is the Director of Developer Relations at ZeroTurnaround, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser, London Java Community co-leader and RebelLabs author. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.
 
-icon:twitter[link="http://twitter.com/sjmaple"] icon:envelope[link="mailto:sjmaple@gmail.com"] icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
+icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto:sjmaple@gmail.com"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
+
+|
 
 | *OLEG SHELAJEV*
 
@@ -70,7 +72,7 @@ _vJUG Organiser_
 
 Oleg Šelajev is a Developer Advocate. He spends his time testing, coding, writing, giving conference talks, crafting blogposts and reports. Oleg is a part-time lecturer at the University of Tartu and enjoys speaking and participating in Java/JVM development conferences such as JavaOne, GeeCON, DevoxxFR, GeekOut UK and others. In his free time, Oleg plays chess at a semi-grandmaster level, loves puzzles and solving all kinds of problems.
 
-icon:twitter[link="http://twitter.com/shelajev"] icon:envelope[link="mailto:"] icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
+icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mailto:shelajev@gmail.com"]{nbsp}  icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
 
 |===
 
