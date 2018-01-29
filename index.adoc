@@ -1,6 +1,6 @@
 = The Virtual Java User Group!
 :page-title: Virtual JUG
-:page-description: The Virtual JUG's website and blog
+:page-description: The Virtual JUG
 :icons: font
 :experimental:
 

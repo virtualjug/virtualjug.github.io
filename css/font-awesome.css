@@ -20,6 +20,7 @@
   -moz-osx-font-smoothing: grayscale;
   transform: translate(0, 0);
   color: #246990
+
 }
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
