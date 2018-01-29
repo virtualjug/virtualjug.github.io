@@ -1,0 +1,67 @@
+= The Team
+:page-title: Virtual JUG
+:page-description: The Virtual JUG
+:icons: font
+:showtitle:
+
+{nbsp} +
+
+==== vJUG Session Leaders
+
+{nbsp} +
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/Simon.jpg[] | | image:images/Oleg.jpg[]
+
+| *SIMON MAPLE*
+
+_vJUG Founder/Organiser_
+
+Simon is the Director of Developer Relations at ZeroTurnaround, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser, London Java Community co-leader and RebelLabs author. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.
+
+icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto:sjmaple@gmail.com"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
+
+|
+
+| *OLEG SHELAJEV*
+
+_vJUG Organiser_
+
+Oleg Šelajev is a Developer Advocate. He spends his time testing, coding, writing, giving conference talks, crafting blogposts and reports. Oleg is a part-time lecturer at the University of Tartu and enjoys speaking and participating in Java/JVM development conferences such as JavaOne, GeeCON, DevoxxFR, GeekOut UK and others. In his free time, Oleg plays chess at a semi-grandmaster level, loves puzzles and solving all kinds of problems.
+
+icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mailto:shelajev@gmail.com"]{nbsp}  icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
+
+|===
+
+{nbsp} +
+
+==== vJUG Book Club Leaders
+
+{nbsp} +
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/Roberto.jpg[] | | image:images/Ivan.jpg[]
+
+| *ROBERTO CORTEZ*
+
+_Organiser_
+
+Roberto Cortez is a professional Java Developer working in the software development industry. Roberto mostly works with Java EE technologies and he is involved with the community to help other individuals, to spread the knowlegde or just to hang out. Roberto speaks at major conferences such as JavaOne, Devoxx FR, JFokus, GeeCon and others. He is also the leader of the Coimbra JUG and a regular blogger about Java related technologies. When not working he spend most of his time hanging with frinds, playing computer games and spending time with his family.
+
+icon:twitter[link="http://twitter.com/radcortez"]{nbsp} icon:envelope[link="mailto:radcortez@yahoo.com"]{nbsp} icon:linkedin[link="http://pt.linkedin.com/in/radcortez/en"]
+
+|
+
+| *IVAN ST. IVANOV*
+
+_vJUG Organiser_
+
+Ivan St. Ivanov is development architect at SAP Labs Bulgaria, working in the HANA Cloud Platform performance team. He is a leader in the Bulgarian JUG, driving the adoption of OpenJDK and various JSRs in Bulgaria, as well as the jPrime conference. In his free time he likes contributing to open source software, mostly to JBoss Forge. Ivan is doing his PhD in the area of cloud multi-tenancy in the University of National and World Economy in Sofia. He is teaching Java and Java EE in the Sofia University.
+
+icon:twitter[link="http://twitter.com/ivan_stefanov"]
+
+|===
