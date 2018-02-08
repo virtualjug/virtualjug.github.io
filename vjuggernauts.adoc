@@ -1,0 +1,138 @@
+= The Virtual Java User Group!
+:page-title: VJUG24 2017
+:page-description: The VJUG24 Conference 2017
+:icons: font
+:experimental:
+
+== vJUGgernaut AWARD
+
+{nbsp} +
+
+==== Those who have earned vJUGgernaut status will be sent an award that should have pride of place on their desk, having beaten many top speakers to a top 5 spot.
+
+{nbsp} +
+
+image::images/vjuggernaut_award.png[align="center", width="620", height="240"]
+
+{nbsp} +
+
+== HALL OF FAME
+
+{nbsp} +
+
+==== 2016 vJUGgernauts
+
+{nbsp} +
+[cols="6*^a" frame="none" grid="none"]
+|===
+
+| image::images/mann.png[width="150", height="150"] | image::images/gupta.png[width="150", height="150"] | image::images/parlog.png[width="150", height="150"] | image::images/subramaniam.png[width="150", height="150"] | image::images/sadogursky.png[width="150", height="150"] | image::images/gamov.png[width="150", height="150"]
+
+| *KITO MANN* +
+_Virtua, Inc._
+
+Modern Web Apps with HTML5 Web Comps., Polymer, and Java EE MVC 1.0
+
+| *ARUN GUPTA* +
+_Amazon Web Services_
+
+Docker for Java Developers Refresh
+
+| *NICOLAI PARLOG* +
+_SitePoint_
+
+JUnit 5: Next Generation Testing on the JVM
+
+| *VENKAT SUBRAMANIAM* +
+_Agile Developer_
+
+Streams: The Real Powerhouse in Java 8
+
+| *BARUCH SADOGURSKY* +
+_JFrog_
+
+Java 8 Puzzlers
+
+| *VICTOR GAMOV* +
+_Confluent_
+Java 8 Puzzlers
+
+|===
+
+{nbsp} +
+
+==== 2015 vJUGgernauts
+
+{nbsp} +
+
+[cols="5*^a" frame="none" grid="none"]
+|===
+
+| image::images/davies.png[width="150", height="150"] | image::images/eisele.png[width="150", height="150"] | image::images/gee.png[width="150", height="150"] | image::images/long.png[width="150", height="150"] | image::images/shipilev.png[width="150", height="150"]
+
+| *JOHN DAVIES* +
+_C24 & Incept5_
+
+Getting C/C++ Performance out of Java
+
+| *MARKUS EISELE* +
+_Lightbend_
+
+Architecting Large Enterprise Java Projects
+
+| *TRISHA GEE* +
+_JetBrains_
+
+Java 8 in Anger!
+
+| *JOSH LONG* +
+_Pivotal_
+
+Building ‘Bootiful’ Microservices with Spring Cloud
+
+| *ALEKSEY SHIPILEV* +
+_Oracle_
+
+Java Memory Model Pragmatics
+
+|===
+
+{nbsp} +
+
+==== 2014 vJUGgernauts
+
+{nbsp} +
+
+[cols="5*^a" frame="none" grid="none"]
+|===
+
+| image::images/gee.png[width="150", height="150"] | image::images/long.png[width="150", height="150"] | image::images/marks.png[width="150", height="150"] | image::images/raible.png[width="150", height="150"] | image::images/ritter.png[width="150", height="150"]
+
+| *TRISHA GEE* +
+_JetBrains_
+
+HTML5, AngularJS, Groovy, Java and MongoDB all together – what could go wrong?
+
+| *JOSH LONG* +
+_Pivotal_
+
+Building ‘Bootiful’­ Applications with Spring Boot
+
+| *STUART MARKS* +
+_Oracle_
+
+Java 8 Parallel Streams Workshop
+
+| *MATT RAIBLE* +
+_Raible Designs_
+
+Comparing JVM Web Frameworks
+
+| *SIMON RITTER* +
+_Azul Systems_
+
+55 New Features in Java SE 8
+
+|===
+
+{nbsp} +
