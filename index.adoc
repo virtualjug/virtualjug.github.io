@@ -17,12 +17,34 @@ video::eezSlcpp3OI[youtube, width=100%, height=640]
 For best results, select the highest video resolution in the embedded YouTube settings (click settings cog).
 
 {nbsp} +
+
+== VJUG SPONSORS
+
 {nbsp} +
 
-image::images/ZT-vJUG-v1.png[align="center"]
+[cols="4*^a" frame="none" grid="none"]
+|===
 
-{nbsp} +
-{nbsp} +
+| image::images/zeroturnaround.png[] | image::images/couchbase.png[] | image::images/google.png[] | image::images/sonatype.png[]
+
+| | | | | | | |
+
+| image::images/ibm.png[] | image::images/azul.png[] | image::images/eclipse.png[] | image::images/lightbend.png[]
+
+| | | | | | | |
+
+| image::images/tomitribe.png[] | image::images/pluralsight.png[] | image::images/aspose.png[] | image::images/jelastic.png[]
+
+| | | |
+
+|===
+
+[cols="5*^a" frame="none" grid="none"]
+|===
+
+| | image::images/canoo.png[] | image::images/jetbrains.png[] | image::images/hays.png[] |
+
+|===
 
 == PAST SESSIONS
 ++++
@@ -75,6 +97,13 @@ _vJUG Organiser_
 Oleg Šelajev is a Developer Advocate. He spends his time testing, coding, writing, giving conference talks, crafting blogposts and reports. Oleg is a part-time lecturer at the University of Tartu and enjoys speaking and participating in Java/JVM development conferences such as JavaOne, GeeCON, DevoxxFR, GeekOut UK and others. In his free time, Oleg plays chess at a semi-grandmaster level, loves puzzles and solving all kinds of problems.
 
 icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mailto:shelajev@gmail.com"]{nbsp}  icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
+
+|===
+
+[cols="^1" frame="none" grid="none"]
+|===
+
+| http://virtualjug.github.io/team[btn:[MEET THE FULL TEAM]]
 
 |===
 
