@@ -1,5 +1,5 @@
 = The Virtual Java User Group!
-:page-title: VJUG24 2017
+:page-title: VJUG24 2016
 :page-description: The VJUG24 Conference 2017
 :icons: font
 :experimental:
