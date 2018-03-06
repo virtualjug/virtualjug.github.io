@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Bookclub: "Java 9 Modularity" by Sander Mak and Paul Bakker (Part 1)
+==== Visualising software architecture with the C4 model
 
 {nbsp} +
 
-video::eezSlcpp3OI[youtube, width=100%, height=640]
+video::72mFcPCj_fg[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
