@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Visualising software architecture with the C4 model
+==== Java in a World of Containers
 
 {nbsp} +
 
-video::72mFcPCj_fg[youtube, width=100%, height=640]
+video::2TwjNcrfjKM[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
