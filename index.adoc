@@ -90,11 +90,11 @@ icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto
 
 |
 
-| *OLEG SHELAJEV*
+| *OLEG ŠELAJEV*
 
 _vJUG Organiser_
 
-Oleg Šelajev is a Developer Advocate. He spends his time testing, coding, writing, giving conference talks, crafting blogposts and reports. Oleg is a part-time lecturer at the University of Tartu and enjoys speaking and participating in Java/JVM development conferences such as JavaOne, GeeCON, DevoxxFR, GeekOut UK and others. In his free time, Oleg plays chess at a semi-grandmaster level, loves puzzles and solving all kinds of problems.
+Oleg is a developer advocate for the Graal project at Oracle Labs, which aims to make programs run faster and developers more productive. He helps to organize VirtualJUG, the online Java User Group, and a GDG chapter in Tartu, Estonia. In 2017 was awarded a Java Champion title. Previously, Oleg was a part-time lecturer at the University of Tartu and since then enjoys speaking, teaching, and participating in software conferences all over the world. Loves pizza and playing chess. Favorite languages: Java, JavaScript, and Clojure. 
 
 icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mailto:shelajev@gmail.com"]{nbsp}  icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
 
