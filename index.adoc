@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== A​ ​Craftsman’s​ ​guide​ ​to​ ​designing​ ​a​ ​Clean Architecture
+==== Ask The Java SE Architect Live from Devoxx UK
 
 {nbsp} +
 
-video::7OzIeu79jlg[youtube, width=100%, height=640]
+video::4CS6NLK_hUc[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
