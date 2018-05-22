@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Ask The Java SE Architect Live from Devoxx UK
+==== Building Mobile Web apps in Java with Vaadin - with live coding
 
 {nbsp} +
 
-video::4CS6NLK_hUc[youtube, width=100%, height=640]
+video::gEStSKmsY8Q[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
