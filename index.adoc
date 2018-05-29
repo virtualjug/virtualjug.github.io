@@ -6,11 +6,17 @@
 
 == LIVE SESSION
 
-==== Building Mobile Web apps in Java with Vaadin - with live coding
+==== Live Stream from jPrime 2018: Hall A
 
 {nbsp} +
 
-video::gEStSKmsY8Q[youtube, width=100%, height=640]
+video::jGtGAzKi8Hs[youtube, width=100%, height=640]
+
+{nbsp} +
+
+==== Live Stream from jPrime 2018: Hall B
+
+video::oqwn5LLPvkc[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
@@ -94,7 +100,7 @@ icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto
 
 _vJUG Organiser_
 
-Oleg is a developer advocate for the Graal project at Oracle Labs, which aims to make programs run faster and developers more productive. He helps to organize VirtualJUG, the online Java User Group, and a GDG chapter in Tartu, Estonia. In 2017 was awarded a Java Champion title. Previously, Oleg was a part-time lecturer at the University of Tartu and since then enjoys speaking, teaching, and participating in software conferences all over the world. Loves pizza and playing chess. Favorite languages: Java, JavaScript, and Clojure. 
+Oleg is a developer advocate for the Graal project at Oracle Labs, which aims to make programs run faster and developers more productive. He helps to organize VirtualJUG, the online Java User Group, and a GDG chapter in Tartu, Estonia. In 2017 was awarded a Java Champion title. Previously, Oleg was a part-time lecturer at the University of Tartu and since then enjoys speaking, teaching, and participating in software conferences all over the world. Loves pizza and playing chess. Favorite languages: Java, JavaScript, and Clojure.
 
 icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mailto:shelajev@gmail.com"]{nbsp}  icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
 
