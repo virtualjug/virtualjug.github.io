@@ -6,17 +6,11 @@
 
 == LIVE SESSION
 
-==== Live Stream from jPrime 2018: Hall A
+==== Building Mobile Web apps in Java with Vaadin - with live coding
 
 {nbsp} +
 
-video::ZJOgB32yBko[youtube, width=100%, height=640]
-
-{nbsp} +
-
-==== Live Stream from jPrime 2018: Hall B
-
-video::dzcq8t0gJwU[youtube, width=100%, height=640]
+video::gEStSKmsY8Q[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
