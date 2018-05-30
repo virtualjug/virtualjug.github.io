@@ -10,13 +10,13 @@
 
 {nbsp} +
 
-video::jGtGAzKi8Hs[youtube, width=100%, height=640]
+video::ZJOgB32yBko[youtube, width=100%, height=640]
 
 {nbsp} +
 
 ==== Live Stream from jPrime 2018: Hall B
 
-video::oqwn5LLPvkc[youtube, width=100%, height=640]
+video::dzcq8t0gJwU[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
