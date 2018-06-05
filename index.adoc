@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Building Mobile Web apps in Java with Vaadin - with live coding
+==== Jenkins X: Continuous Delivery for Kubernetes
 
 {nbsp} +
 
-video::gEStSKmsY8Q[youtube, width=100%, height=640]
+video::PUCGDYHG5No[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
