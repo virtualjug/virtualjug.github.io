@@ -6,11 +6,17 @@
 
 == LIVE FROM JNATION
 
-==== JNation, Old Church (Keynote only)
+==== JNation, Room Mondego
 
 {nbsp} +
 
 video::YXFBn0MNpx0[youtube, width=100%, height=640]
+
+==== JNation, Room Aeminium
+
+{nbsp} +
+
+video::53AtxQGXnMk[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
