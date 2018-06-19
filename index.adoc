@@ -10,7 +10,7 @@
 
 {nbsp} +
 
-video::6uf5Ilp9F3o[youtube, width=100%, height=640]
+video::YXFBn0MNpx0[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
@@ -84,7 +84,7 @@ For best results, select the highest video resolution in the embedded YouTube se
 
 _vJUG Founder/Organiser_
 
-Simon is the Director of Developer Relations at ZeroTurnaround, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser, London Java Community co-leader and RebelLabs author. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.
+Simon is the Director of Developer Relations at Snyk, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser and London Java Community co-leader. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.
 
 icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto:sjmaple@gmail.com"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
 
