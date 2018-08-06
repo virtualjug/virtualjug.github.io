@@ -6,7 +6,7 @@
 
 == LIVE SESSION
 
-==== Functional Tic-Tac-Toe Speedrun
+==== Kafka — A Streaming Data Platform
 
 {nbsp} +
 
