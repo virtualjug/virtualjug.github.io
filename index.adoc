@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Kafka — A Streaming Data Platform
+==== Common Mistakes Made in Functional Java
 
 {nbsp} +
 
-video::0334Q49C6h8[youtube, width=100%, height=640]
+video::VU7LyEOewvw[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
