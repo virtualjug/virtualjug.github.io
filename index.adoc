@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== The Future of Java / OpenJDK and how it impacts You!
+==== Bootiful Testing
 
 {nbsp} +
 
-video::078QIrp0SD8[youtube, width=100%, height=640]
+video::jTKFBGWhhBA[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
