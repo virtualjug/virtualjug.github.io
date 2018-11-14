@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Bootiful Testing
+==== Run Programs Faster Everywhere with GraalVM
 
 {nbsp} +
 
-video::jTKFBGWhhBA[youtube, width=100%, height=640]
+video::URD_u-od1Kc[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
