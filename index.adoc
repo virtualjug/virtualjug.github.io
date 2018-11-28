@@ -61,7 +61,7 @@ For best results, select the highest video resolution in the embedded YouTube se
 | Our *meetup* community can be found on http://meetup.com/virtualjug. We post all our upcoming vJUG sessions, which you'll be notified of through the meetup mailing list. To join our community, click the button below!| | The *slack* channel is a great place to ask technical or non-technical questions from your Java peers! It is also the best place to ask questions of our session speakers during the live events. To join, click the button below!
 |||
 
-| http://meetup.com/virtualjug/join[btn:[JOIN MEETUP], window="_blank"] | | https://join.slack.com/t/virtualjug/shared_invite/enQtMjY2MTgwNTU5OTc0LTNlMDYyMTMxOTdiODE1NjYwNGZlZTM4OTRlZjMwY2U0MWFkZTQyNGI5MDMzYjVjNDFiOTc3ODAzNjU0NDdlZDc[btn:[JOIN SLACK], window="_blank"] |
+| http://meetup.com/virtualjug/join[btn:[JOIN MEETUP], window="_blank"] | | https://join.slack.com/t/virtualjug/shared_invite/enQtNDg5ODYwOTY0ODA0LWU0ZGYwZGFiNTAzNjAwYjEyZDRmYTkwNTAxMzAwYjllODJmMjc2ZDU5OTU5NTRhNDM5MmRiYWQ0NzIzOGE0NmY[btn:[JOIN SLACK], window="_blank"] |
 
 |===
 
