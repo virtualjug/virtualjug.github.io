@@ -6,7 +6,7 @@
 
 == LIVE SESSION
 
-==== Processing Streaming Data with KSQL
+==== Rethinking stream processing with Kafka Streams and KSQL
 
 {nbsp} +
 
