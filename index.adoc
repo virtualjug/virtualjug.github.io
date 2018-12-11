@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Rethinking stream processing with Kafka Streams and KSQL
+==== Fun with `var` in Java 11
 
 {nbsp} +
 
-video::oU3fxsYFUbY[youtube, width=100%, height=640]
+video::TIumzU4dhRk[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
