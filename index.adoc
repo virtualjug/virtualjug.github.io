@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Fun with `var` in Java 11
+==== Securing the JVM - Neither for fun nor for profit, but do you have a choice?
 
 {nbsp} +
 
-video::TIumzU4dhRk[youtube, width=100%, height=640]
+video::UrOoNTf5Zcs[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
