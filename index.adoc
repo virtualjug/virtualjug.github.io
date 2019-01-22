@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Securing the JVM - Neither for fun nor for profit, but do you have a choice?
+==== Continuous Profiling in Production: What, Why and How
 
 {nbsp} +
 
-video::gSQlLAp2dZ8[youtube, width=100%, height=640]
+video::guvSSGfkHW4[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
