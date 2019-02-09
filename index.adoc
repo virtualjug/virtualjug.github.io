@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Continuous Profiling in Production: What, Why and How
+==== Monitor Your Java Apps with the Elastic Stack: Logs, Metrics, Pings, and Traces
 
 {nbsp} +
 
-video::guvSSGfkHW4[youtube, width=100%, height=640]
+video::GqkrTApsB3s[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
