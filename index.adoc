@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Monitor Your Java Apps with the Elastic Stack: Logs, Metrics, Pings, and Traces
+==== Performance After Eight
 
 {nbsp} +
 
-video::8NxzQAfHaU4[youtube, width=100%, height=640]
+video::BhQm6Gvoxi8[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
