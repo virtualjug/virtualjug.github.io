@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Evolving a Pragmatic, Clean Architecture  - A Craftsman's Guide
+==== Reactive Performance
 
 {nbsp} +
 
-video::qM4RlRf9gLY[youtube, width=100%, height=640]
+video::pyqIpqCt8PU[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
