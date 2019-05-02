@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Reactive Performance
+==== Java, Turbocharged
 
 {nbsp} +
 
-video::pyqIpqCt8PU[youtube, width=100%, height=640]
+video::f7hVS9E9M9E[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
