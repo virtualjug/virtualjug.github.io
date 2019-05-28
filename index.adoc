@@ -6,17 +6,17 @@
 
 == LIVE SESSION
 
-==== jPrime Day 1, Hall A
+==== jPrime Day 2, Hall A
 
 {nbsp} +
 
-video::uVFbLG4rT2U[youtube, width=100%, height=640]
+video::OL4Ye2r7ohY[youtube, width=100%, height=640]
 
-==== jPrime Day 1, Hall B
+==== jPrime Day 2, Hall B
 
 {nbsp} +
 
-video::yNI3cOWukxw[youtube, width=100%, height=640]
+video::MbjXTHoQJG4[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
