@@ -6,11 +6,17 @@
 
 == LIVE SESSION
 
-==== Java, Turbocharged
+==== jPrime Day 1, Hall A
 
 {nbsp} +
 
-video::f7hVS9E9M9E[youtube, width=100%, height=640]
+video::uVFbLG4rT2U[youtube, width=100%, height=640]
+
+==== jPrime Day 1, Hall B
+
+{nbsp} +
+
+video::yNI3cOWukxw[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
