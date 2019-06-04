@@ -6,17 +6,29 @@
 
 == LIVE SESSION
 
-==== jPrime Day 2, Hall A
+==== JNation 2019 - Auditorium
 
 {nbsp} +
 
-video::OL4Ye2r7ohY[youtube, width=100%, height=640]
+video::G90ZHf2oaA8[youtube, width=100%, height=640]
 
-==== jPrime Day 2, Hall B
+==== JNation 2019 - Mondego
 
 {nbsp} +
 
-video::MbjXTHoQJG4[youtube, width=100%, height=640]
+video::JW9WJXKDmMg[youtube, width=100%, height=640]
+
+==== JNation 2019 - Almedina
+
+{nbsp} +
+
+video::EK35ghR635Q[youtube, width=100%, height=640]
+
+==== JNation 2019 - Sofia
+
+{nbsp} +
+
+video::kyLXtLr8cGQ[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
