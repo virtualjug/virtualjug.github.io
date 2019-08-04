@@ -15,7 +15,7 @@
 
 _vJUG Founder/Organiser_
 
-Simon is the Director of Developer Relations at ZeroTurnaround, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser, London Java Community co-leader and RebelLabs author. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.
+Simon is the Director of Developer Relations at Snyk, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser and London Java Community co-leader. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.
 
 icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto:sjmaple@gmail.com"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
 
@@ -25,7 +25,7 @@ icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto
 
 _vJUG Organiser_
 
-Oleg Šelajev is a Developer Advocate. He spends his time testing, coding, writing, giving conference talks, crafting blogposts and reports. Oleg is a part-time lecturer at the University of Tartu and enjoys speaking and participating in Java/JVM development conferences such as JavaOne, GeeCON, DevoxxFR, GeekOut UK and others. In his free time, Oleg plays chess at a semi-grandmaster level, loves puzzles and solving all kinds of problems.
+Oleg is a Developer Advocate for the Graal project at Oracle Labs, which aims to make programs run faster and developers more productive. He helps to organize VirtualJUG, the online Java User Group, and a GDG chapter in Tartu, Estonia. In 2017 was awarded a Java Champion title. Previously, Oleg was a part-time lecturer at the University of Tartu and since then enjoys speaking, teaching, and participating in software conferences all over the world. Loves pizza and playing chess. Favorite languages: Java, JavaScript, and Clojure.
 
 icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mailto:shelajev@gmail.com"]{nbsp}  icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
 
@@ -81,7 +81,7 @@ icon:twitter[link="http://twitter.com/glitchgirl83"]
 _vJUG Organiser_
 
 
-Brian is a Developer Advocate for Snyk and Software Engineer with over 10 years of hands-on experience in creating and maintaining software. He is passionate about Java, (Pure) Functional Programming and Cybersecurity. Brian is an Oracle Groundbreaker Ambassador, Utrecht JUG Co-lead and Co-lead at TheSecureDeveloper. He is a regular international speaker on mostly Java-related conferences like JavaOne, Oracle Code One, Devoxx BE, Devoxx UK, Jfokus, JavaZone and many more. Besides all that Brian is a military reserve for the Royal Netherlands Air Force and a Taekwondo Master / Teacher
+Brian is a Developer Advocate for Snyk and Software Engineer with over 10 years of hands-on experience in creating and maintaining software. He is passionate about Java, (Pure) Functional Programming and Cybersecurity. Brian is an Oracle Groundbreaker Ambassador, Utrecht JUG Co-lead, Virtual JUG organizer and Co-lead at TheSecureDeveloper. He is a regular international speaker on mostly Java-related conferences like JavaOne, Oracle Code One, Devoxx BE, Devoxx UK, Jfokus, JavaZone and many more. Besides all that Brian is a military reserve for the Royal Netherlands Air Force and a Taekwondo Master / Teacher
 
 icon:twitter[link="http://twitter.com/brianverm"]{nbsp} icon:envelope[link="mailto:brian@brianvermeer.nl"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/brianvermeer"]
 |===
