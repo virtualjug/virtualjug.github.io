@@ -6,10 +6,6 @@
 
 {nbsp} +
 
-==== vJUG Session Leaders
-
-{nbsp} +
-
 [cols="^47,^6,^47" frame="none" grid="none"]
 |===
 
@@ -35,9 +31,6 @@ icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mail
 
 |===
 
-{nbsp} +
-
-==== vJUG Book Club Leaders
 
 {nbsp} +
 
@@ -48,7 +41,7 @@ icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mail
 
 | *ROBERTO CORTEZ*
 
-_Organiser_
+_vJUG Organiser_
 
 Roberto Cortez is a professional Java Developer working in the software development industry. Roberto mostly works with Java EE technologies and he is involved with the community to help other individuals, to spread the knowlegde or just to hang out. Roberto speaks at major conferences such as JavaOne, Devoxx FR, JFokus, GeeCon and others. He is also the leader of the Coimbra JUG and a regular blogger about Java related technologies. When not working he spend most of his time hanging with frinds, playing computer games and spending time with his family.
 
@@ -64,4 +57,31 @@ Ivan St. Ivanov is development architect at SAP Labs Bulgaria, working in the HA
 
 icon:twitter[link="http://twitter.com/ivan_stefanov"]
 
+|===
+
+{nbsp} +
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/Alaina.jpg[] | | image:images/Brian.jpg[]
+
+| *ALAINA TUCKER*
+
+_vJUG Organiser_
+
+Alaina is a digital marketing professional with 10+ years of experience, and a passion for education and community building. Currently working for Boston-Based cybersec company, Onapsis. In her spare time, Alaina enjoys following fluffy dogs around Boston and collecting 1st edition Stephen King Books
+
+icon:twitter[link="http://twitter.com/glitchgirl83"]
+
+|
+
+| *BRIAN VERMEER*
+
+_vJUG Organiser_
+
+
+Brian is a Developer Advocate for Snyk and Software Engineer with over 10 years of hands-on experience in creating and maintaining software. He is passionate about Java, (Pure) Functional Programming and Cybersecurity. Brian is an Oracle Groundbreaker Ambassador, Utrecht JUG Co-lead and Co-lead at TheSecureDeveloper. He is a regular international speaker on mostly Java-related conferences like JavaOne, Oracle Code One, Devoxx BE, Devoxx UK, Jfokus, JavaZone and many more. Besides all that Brian is a military reserve for the Royal Netherlands Air Force and a Taekwondo Master / Teacher
+
+icon:twitter[link="http://twitter.com/brianverm"]{nbsp} icon:envelope[link="mailto:brian@brianvermeer.nl"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/brianvermeer"]
 |===
