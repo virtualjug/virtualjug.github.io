@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Live Hack: Finding Security Vulnerabilities Before They Find You!
+==== Java Next - New Releases, Amber, Valhalla, and More Goodies with Nicolai Parlog
 
 {nbsp} +
 
-video::NPJAGJVc1ks[youtube, width=100%, height=640]
+video::sG6wUipM8mo[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
