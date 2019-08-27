@@ -6,11 +6,11 @@
 
 == LIVE SESSION
 
-==== Java Next - New Releases, Amber, Valhalla, and More Goodies with Nicolai Parlog
+==== Kubernetes and The 12 Factors Cloud Applications with Ana-Maria Mihalceanu
 
 {nbsp} +
 
-video::sG6wUipM8mo[youtube, width=100%, height=640]
+video::-lPQYypjEsg[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
