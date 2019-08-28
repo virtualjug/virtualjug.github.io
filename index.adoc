@@ -22,29 +22,8 @@ For best results, select the highest video resolution in the embedded YouTube se
 
 {nbsp} +
 
-[cols="4*^a" frame="none" grid="none"]
-|===
+image::images/snyk.png[]
 
-| image::images/zeroturnaround.png[] | image::images/couchbase.png[] | image::images/google.png[] | image::images/sonatype.png[]
-
-| | | | | | | |
-
-| image::images/ibm.png[] | image::images/azul.png[] | image::images/eclipse.png[] | image::images/lightbend.png[]
-
-| | | | | | | |
-
-| image::images/tomitribe.png[] | image::images/pluralsight.png[] | image::images/aspose.png[] | image::images/jelastic.png[]
-
-| | | |
-
-|===
-
-[cols="5*^a" frame="none" grid="none"]
-|===
-
-| | image::images/canoo.png[] | image::images/jetbrains.png[] | image::images/hays.png[] |
-
-|===
 
 == PAST SESSIONS
 ++++
