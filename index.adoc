@@ -22,7 +22,12 @@ For best results, select the highest video resolution in the embedded YouTube se
 
 {nbsp} +
 
-image::images/snyk.png[]
+[cols="1*^a" frame="none" grid="none"]
+|===
+
+| image::images/snyk.png[link="https://snyk.io"]
+
+|===
 
 
 == PAST SESSIONS
