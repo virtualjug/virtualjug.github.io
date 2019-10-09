@@ -4,7 +4,20 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION
+== NEXT SESSION
+October 15, 2019
+
+=== Surviving Dependency Hell with Ray Tsang  & Robert Scholte
+
+[cols="^1" frame="none" grid="none"]
+|===
+
+| https://www.meetup.com/virtualJUG/events/265310595/[btn:[MORE INFO]]
+
+|===
+
+== LAST SESSION
+August 27, 2019
 
 ==== Kubernetes and The 12 Factors Cloud Applications with Ana-Maria Mihalceanu
 
