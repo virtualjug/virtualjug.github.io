@@ -5,7 +5,7 @@
 :experimental:
 
 == NEXT SESSION
-October 15, 2019
+==== October 15, 2019
 
 === Surviving Dependency Hell with Ray Tsang  & Robert Scholte
 
@@ -17,9 +17,9 @@ October 15, 2019
 |===
 
 == LAST SESSION
-August 27, 2019
+==== August 27, 2019
 
-==== Kubernetes and The 12 Factors Cloud Applications with Ana-Maria Mihalceanu
+=== Kubernetes and The 12 Factors Cloud Applications with Ana-Maria Mihalceanu
 
 {nbsp} +
 
