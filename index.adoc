@@ -5,13 +5,13 @@
 :experimental:
 
 == LIVE SESSION
-==== October 15, 2019
+==== November 19, 2019
 
-=== Surviving Dependency Hell with Ray Tsang  & Robert Scholte
+=== Untangling the Mysteries of Qubits with Roy van Rijn
 
 {nbsp} +
 
-video::DeTkADhgfBw[youtube, width=100%, height=640]
+video::tPec63hl-yo[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
