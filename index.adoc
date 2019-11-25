@@ -5,13 +5,13 @@
 :experimental:
 
 == LIVE SESSION
-==== November 19, 2019
+==== November 26, 2019
 
-=== Untangling the Mysteries of Qubits with Roy van Rijn
+=== Fully Reactive: Spring, Kotlin, and JavaFX Playing Together with Trisha Gee
 
 {nbsp} +
 
-video::tPec63hl-yo[youtube, width=100%, height=640]
+video::6sooAo4jNSA[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
