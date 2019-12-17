@@ -7,11 +7,11 @@
 == LIVE SESSION
 ==== November 26, 2019
 
-=== Fully Reactive: Spring, Kotlin, and JavaFX Playing Together with Trisha Gee
+=== Quarkus in Real-World Deployments with Roberto Cortez and Bruno Baptista
 
 {nbsp} +
 
-video::6sooAo4jNSA[youtube, width=100%, height=640]
+video::ZgbwelTh3Mg[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
