@@ -5,7 +5,7 @@
 :experimental:
 
 == LIVE SESSION
-==== November 26, 2019
+==== December 17, 2019
 
 === Quarkus in Real-World Deployments with Roberto Cortez and Bruno Baptista
 
