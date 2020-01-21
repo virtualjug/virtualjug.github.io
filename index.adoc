@@ -7,11 +7,11 @@
 == LIVE SESSION
 ==== December 17, 2019
 
-=== Quarkus in Real-World Deployments with Roberto Cortez and Bruno Baptista
+=== The State of Reactive Streams with Oleh Dokuka
 
 {nbsp} +
 
-video::ZgbwelTh3Mg[youtube, width=100%, height=640]
+video::_p61hfyguvQ[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
