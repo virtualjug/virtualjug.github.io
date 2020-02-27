@@ -4,14 +4,15 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION
-==== December 17, 2019
+//== LIVE SESSION
+//==== December 17, 2019
 
-=== The State of Reactive Streams with Oleh Dokuka
+== Devnexus 2020 interviews
+=== Ray Tsang | Justin Lee | Grace Jansen | Chandra Guntur | Mala Gupta | Mohamed Taman | Venkat Subramaniam
 
 {nbsp} +
 
-video::_p61hfyguvQ[youtube, width=100%, height=640]
+video::xnIrV9kmg8g[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
