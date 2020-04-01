@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Learnings from Implementing Microservices Architecture with Kubernetes
-==== March 18, 2020
-=== Ray Tsang (@saturnism)
+== LIVE SESSION: Modern Java Clients with JavaFX - The Definitive Guide
+==== April 1, 2020
+=== Stephen Chin (@steveonjava)
 
 {nbsp} +
 
-video::eObqfqQLwe0[youtube, width=100%, height=640]
+video::yEYVL_KyP2E[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
