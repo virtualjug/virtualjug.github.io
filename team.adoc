@@ -85,3 +85,22 @@ Brian is a Developer Advocate for Snyk and Software Engineer with over 10 years 
 
 icon:twitter[link="http://twitter.com/brianverm"]{nbsp} icon:envelope[link="mailto:brian@brianvermeer.nl"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/brianvermeer"]
 |===
+{nbsp} +
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/lori.jpg[] | |
+
+| *LORI LORUSSO*
+
+_vJUG Organiser_
+
+Lori started working with developers nearly 10 years ago. Most recently she helped ‘disorganize’ the unconferences at Oracle Code One. She’s worked with Java Champions, Groundbreakers, Oracle ACEs and is starting a new community group called SuperFrogs at JFrog where she is a community manager.
+
+icon:twitter[link="http://twitter.com/LoriLorusso"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/lorilorusso"]
+
+|
+
+|
+|===

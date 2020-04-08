@@ -137,6 +137,23 @@ icon:twitter[link="http://twitter.com/brianverm"]{nbsp} icon:envelope[link="mail
 
 |===
 
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/lori.jpg[] | |
+
+| *LORI LORUSSO*
+
+_vJUG Organiser_
+
+icon:twitter[link="http://twitter.com/LoriLorusso"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/lorilorusso"]
+
+|
+
+|
+
+|===
+
 [cols="^1" frame="none" grid="none"]
 |===
 
