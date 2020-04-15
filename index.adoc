@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Modern Java Clients with JavaFX - The Definitive Guide
-==== April 1, 2020
-=== Stephen Chin (@steveonjava)
+== LIVE SESSION: What I Wish I Knew About Maven Years Ago
+==== April 15, 2020
+=== Andres Aalmiray ([@aalmiray](https://twitter.com/aalmiray))
 
 {nbsp} +
 
-video::yEYVL_KyP2E[youtube, width=100%, height=640]
+video::DEOqLTxkK8A[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
