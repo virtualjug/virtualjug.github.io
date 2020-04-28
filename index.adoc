@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: What I Wish I Knew About Maven Years Ago
-==== April 15, 2020
-=== Andres Aalmiray ([@aalmiray](https://twitter.com/aalmiray))
+== LIVE SESSION: Migrating Beyond Java 8
+==== April 29, 2020
+=== Dalia Abo Sheasha (https://twitter.com/DaliaShea[@DaliaShea])
 
 {nbsp} +
 
-video::DEOqLTxkK8A[youtube, width=100%, height=640]
+video::JyKZEiVCBto[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
