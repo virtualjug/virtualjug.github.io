@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Migrating Beyond Java 8
-==== April 29, 2020
-=== Dalia Abo Sheasha (https://twitter.com/DaliaShea[@DaliaShea])
+== LIVE SESSION: Designing Microservices in Functional Style
+==== May 13th, 2020
+=== Uberto Barbini
 
 {nbsp} +
 
-video::JyKZEiVCBto[youtube, width=100%, height=640]
+video::k5yz7t6dnkU[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
