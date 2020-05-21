@@ -4,26 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Designing Microservices in Functional Style
-==== May 13th, 2020
-=== Uberto Barbini
+== LIVE SESSION: Introduction to Data Streaming
+==== May 21st, 2020
+=== Nicolas Frankel
 
 {nbsp} +
 
-video::k5yz7t6dnkU[youtube, width=100%, height=640]
-
-.Video Quality
-[NOTE]
-For best results, select the highest video resolution in the embedded YouTube settings (click settings cog).
-
-{nbsp} +
-
-== Devnexus 2020 interviews
-=== Ray Tsang | Justin Lee | Grace Jansen | Chandra Guntur | Mala Gupta | Mohamed Taman | Venkat Subramaniam
-
-{nbsp} +
-
-video::xnIrV9kmg8g[youtube, width=100%, height=640]
+video::0IE-CXNs6Sw[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
