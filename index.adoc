@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Introduction to Data Streaming
-==== May 21st, 2020
-=== Nicolas Frankel
+== LIVE SESSION: 12 Ways of the Cloud Native Warrior
+==== July 21st, 2020
+=== Burr Sutter
 
 {nbsp} +
 
-video::0IE-CXNs6Sw[youtube, width=100%, height=640]
+video::PZOs0BsB7-E[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
