@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: 12 Ways of the Cloud Native Warrior
-==== July 21st, 2020
-=== Burr Sutter
+== LIVE SESSION: No Hate on Java 8, But 9-14 Reign Supreme
+==== Aug 13th, 2020
+=== Angie Jones (@techgirl1908)
 
 {nbsp} +
 
-video::PZOs0BsB7-E[youtube, width=100%, height=640]
+video::I4XYTRmldLo[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
