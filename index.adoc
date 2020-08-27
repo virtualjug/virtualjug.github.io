@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: No Hate on Java 8, But 9-14 Reign Supreme
-==== Aug 13th, 2020
-=== Angie Jones (@techgirl1908)
+== LIVE SESSION: Keeping Pace With What's New In Java 14 And 15
+==== Aug 27th, 2020
+=== Mala Gupta (@eMalaGupta)
 
 {nbsp} +
 
-video::I4XYTRmldLo[youtube, width=100%, height=640]
+video::z0XFtiZr9WI[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
