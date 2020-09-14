@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Keeping Pace With What's New In Java 14 And 15
-==== Aug 27th, 2020
-=== Mala Gupta (@eMalaGupta)
+== LIVE SESSION: JBang - Using Java to make Java better ?
+==== Sep 15th, 2020
+=== Max Andersen (@maxandersen)
 
 {nbsp} +
 
-video::z0XFtiZr9WI[youtube, width=100%, height=640]
+video::X4x2jM3Y0uE[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
