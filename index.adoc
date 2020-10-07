@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Testcontainers: How To Test In A Prod-Like Environment With Docker
-==== Sep 23th, 2020
-=== Jonathan Vila (@vilojona)
+== LIVE SESSION: In-Memory Computing Essentials for Java Developers and Architects
+==== Oct 8th, 2020
+=== Denis Magda
 
 {nbsp} +
 
-video::YPVYWkRxytc[youtube, width=100%, height=640]
+video::mwgVlwjpwnw[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
