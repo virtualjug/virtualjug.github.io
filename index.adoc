@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Contributing to Open Source as a Contributor and a Maintainer
-==== Oct 14th, 2020
-=== Isabel Costa
+== LIVE SESSION: Coding That Sparks Joy With Quarkus 
+==== Oct 29th, 2020
+=== Edson Yanaga
 
 {nbsp} +
 
-video::FTL7kahHHBk[youtube, width=100%, height=640]
+video::djimiHdn0f8[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
