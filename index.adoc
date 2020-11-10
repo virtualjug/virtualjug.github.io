@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Coding That Sparks Joy With Quarkus 
-==== Oct 29th, 2020
-=== Edson Yanaga
+== LIVE SESSION: Sailing Java 15
+==== Nov 10th, 2020
+=== Piotr Przybył
 
 {nbsp} +
 
-video::djimiHdn0f8[youtube, width=100%, height=640]
+video::xOLTqqH7ggo[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
