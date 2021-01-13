@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: On the Bleeding Edge of OpenTelemetry
-==== Dec 10th, 2020
-=== Philipp Krenn
+== LIVE SESSION: Don't be mocked by your Mocks: Listening to your Tests
+==== Jan 14th, 2021
+=== Victor Rentea
 
 {nbsp} +
 
-video::2gv7Cv4PseE[youtube, width=100%, height=640]
+video::pKBjufM024U[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
