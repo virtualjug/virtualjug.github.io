@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Don't be mocked by your Mocks: Listening to your Tests
-==== Jan 14th, 2021
-=== Victor Rentea
+== LIVE SESSION: No Free Lunch? Memory Allocation in the JVM
+==== Jan 26th, 2021
+=== Richard Warburton, Sadiq Jaffer
 
 {nbsp} +
 
-video::pKBjufM024U[youtube, width=100%, height=640]
+video::NY1S0M4i-xM[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
