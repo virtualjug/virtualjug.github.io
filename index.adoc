@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Fly like a rocket with Helidon
-==== Feb 11th, 2021
-=== Dmitry Alexandrov
+== LIVE SESSION: Staying Ahead of the Curve with Spring and Cassandra 4
+==== Feb 18th, 2021
+=== Cédrick Lunven
 
 {nbsp} +
 
-video::8NOP5FpOvcg[youtube, width=100%, height=640]
+video::nuyPKDQn1gI[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
