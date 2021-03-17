@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: Staying Ahead of the Curve with Spring and Cassandra 4
-==== Feb 18th, 2021
-=== Cédrick Lunven
+== LIVE SESSION: [Foojay Virtual Jug tour] The Future of Java on Raspberry Pi: Java, JavaFX + More
+==== Mar 17th, 2021
+=== Frank Delporte
 
 {nbsp} +
 
-video::nuyPKDQn1gI[youtube, width=100%, height=640]
+video::AjpvdmqqsSY[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
