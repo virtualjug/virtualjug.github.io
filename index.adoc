@@ -4,13 +4,13 @@
 :icons: font
 :experimental:
 
-== LIVE SESSION: [Foojay Virtual Jug tour] The Future of Java on Raspberry Pi: Java, JavaFX + More
-==== Mar 17th, 2021
-=== Frank Delporte
+== LIVE SESSION: How Should Java Developers Build Front-Ends for Web, Mobile, and Desktop Today?
+==== Apr 7th, 2021
+=== Karsten Silz
 
 {nbsp} +
 
-video::AjpvdmqqsSY[youtube, width=100%, height=640]
+video::6l7QvUp1Ys0[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
