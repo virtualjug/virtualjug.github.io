@@ -10,7 +10,7 @@
 
 {nbsp} +
 
-video::v=N3Am-ALM_7U[youtube, width=100%, height=640]
+video::N3Am-ALM_7U[youtube, width=100%, height=640]
 
 .Video Quality
 [NOTE]
