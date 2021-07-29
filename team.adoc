@@ -1,0 +1,106 @@
+= The Team
+:page-title: Virtual JUG
+:page-description: The Virtual JUG
+:icons: font
+:showtitle:
+
+{nbsp} +
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/Simon.jpg[] | | image:images/Oleg.jpg[]
+
+| *SIMON MAPLE*
+
+_vJUG Founder/Organiser_
+
+Simon is the Director of Developer Relations at Snyk, a Java Champion since 2014, JavaOne Rockstar speaker in 2014, Duke’s Choice award winner, Virtual JUG founder and organiser and London Java Community co-leader. He is an experienced speaker, having presented at JavaOne, JavaZone, Jfokus, DevoxxUK, DevoxxFR, JavaLand, JMaghreb and many more including many JUG tours. His passion is around user groups and communities. When not traveling, Simon enjoys spending quality time with his family, cooking and eating great food.
+
+icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto:sjmaple@gmail.com"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
+
+|
+
+| *OLEG SHELAJEV*
+
+_vJUG Organiser_
+
+Oleg is a Developer Advocate for the Graal project at Oracle Labs, which aims to make programs run faster and developers more productive. He helps to organize VirtualJUG, the online Java User Group, and a GDG chapter in Tartu, Estonia. In 2017 was awarded a Java Champion title. Previously, Oleg was a part-time lecturer at the University of Tartu and since then enjoys speaking, teaching, and participating in software conferences all over the world. Loves pizza and playing chess. Favorite languages: Java, JavaScript, and Clojure.
+
+icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mailto:shelajev@gmail.com"]{nbsp}  icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
+
+|===
+
+
+{nbsp} +
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/Roberto.jpg[] | | image:images/Ivan.jpg[]
+
+| *ROBERTO CORTEZ*
+
+_vJUG Organiser_
+
+Roberto Cortez is a professional Java Developer working in the software development industry. Roberto mostly works with Java EE technologies and he is involved with the community to help other individuals, to spread the knowlegde or just to hang out. Roberto speaks at major conferences such as JavaOne, Devoxx FR, JFokus, GeeCon and others. He is also the leader of the Coimbra JUG and a regular blogger about Java related technologies. When not working he spend most of his time hanging with frinds, playing computer games and spending time with his family.
+
+icon:twitter[link="http://twitter.com/radcortez"]{nbsp} icon:envelope[link="mailto:radcortez@yahoo.com"]{nbsp} icon:linkedin[link="http://pt.linkedin.com/in/radcortez/en"]
+
+|
+
+| *IVAN ST. IVANOV*
+
+_vJUG Organiser_
+
+Ivan St. Ivanov is development architect at SAP Labs Bulgaria, working in the HANA Cloud Platform performance team. He is a leader in the Bulgarian JUG, driving the adoption of OpenJDK and various JSRs in Bulgaria, as well as the jPrime conference. In his free time he likes contributing to open source software, mostly to JBoss Forge. Ivan is doing his PhD in the area of cloud multi-tenancy in the University of National and World Economy in Sofia. He is teaching Java and Java EE in the Sofia University.
+
+icon:twitter[link="http://twitter.com/ivan_stefanov"]
+
+|===
+
+{nbsp} +
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/Alaina.jpg[] | | image:images/Brian.jpg[]
+
+| *ALAINA TUCKER*
+
+_vJUG Organiser_
+
+Alaina is a digital marketing professional with 10+ years of experience, and a passion for education and community building. Currently working for Boston-Based cybersec company, Onapsis. In her spare time, Alaina enjoys following fluffy dogs around Boston and collecting 1st edition Stephen King Books
+
+icon:twitter[link="http://twitter.com/glitchgirl83"]
+
+|
+
+| *BRIAN VERMEER*
+
+_vJUG Organiser_
+
+
+Brian is a Developer Advocate for Snyk and Software Engineer with over 10 years of hands-on experience in creating and maintaining software. He is passionate about Java, (Pure) Functional Programming and Cybersecurity. Brian is an Oracle Groundbreaker Ambassador, Utrecht JUG Co-lead, Virtual JUG organizer and Co-lead at TheSecureDeveloper. He is a regular international speaker on mostly Java-related conferences like JavaOne, Oracle Code One, Devoxx BE, Devoxx UK, Jfokus, JavaZone and many more. Besides all that Brian is a military reserve for the Royal Netherlands Air Force and a Taekwondo Master / Teacher
+
+icon:twitter[link="http://twitter.com/brianverm"]{nbsp} icon:envelope[link="mailto:brian@brianvermeer.nl"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/brianvermeer"]
+|===
+{nbsp} +
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/lori.jpg[] | |
+
+| *LORI LORUSSO*
+
+_vJUG Organiser_
+
+Lori started working with developers nearly 10 years ago. Most recently she helped ‘disorganize’ the unconferences at Oracle Code One. She’s worked with Java Champions, Groundbreakers, Oracle ACEs and is starting a new community group called SuperFrogs at JFrog where she is a community manager.
+
+icon:twitter[link="http://twitter.com/LoriLorusso"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/lorilorusso"]
+
+|
+
+|
+|===

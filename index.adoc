@@ -1,0 +1,160 @@
+= The Virtual Java User Group!
+:page-title: Virtual JUG
+:page-description: The Virtual JUG
+:icons: font
+:experimental:
+
+== LIVE SESSION: Releasing At The Speed of Light
+==== July 29th, 2021
+=== Andres Almiray
+
+{nbsp} +
+
+video::N3Am-ALM_7U[youtube, width=100%, height=640]
+
+.Video Quality
+[NOTE]
+For best results, select the highest video resolution in the embedded YouTube settings (click settings cog).
+
+{nbsp} +
+
+== VJUG SPONSORS
+
+{nbsp} +
+
+[cols="1*^a" frame="none" grid="none"]
+|===
+
+| image::images/snyk.png[link="https://snyk.io"]
+
+|===
+
+
+== PAST SESSIONS
+++++
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vdgZM9XIPUlDGURN9uABC7cILvuIfpyEOurETMjOloY&font=OpenSans-GentiumBook&lang=en&start_at_end=true&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+++++
+
+{nbsp} +
+
+== JOIN THE VJUG
+{nbsp} +
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| Our *meetup* community can be found on http://meetup.com/virtualjug. We post all our upcoming vJUG sessions, which you'll be notified of through the meetup mailing list. To join our community, click the button below!| | The *slack* channel is a great place to ask technical or non-technical questions from your Java peers! It is also the best place to ask questions of our session speakers during the live events. To join, click the button below!
+|||
+
+| http://meetup.com/virtualjug/join[btn:[JOIN MEETUP], window="_blank"] | | https://join.slack.com/t/virtualjug/shared_invite/enQtNDg5ODYwOTY0ODA0LTY1YjQyNzA5MTI3YjkyY2JjMGY1Yjg4NWMxZGZlNzhkMThkMTQwYzJmMGE4YzJhZjE0NjU3NjFhM2Q2Njk0MWU[btn:[JOIN SLACK], window="_blank"] |
+
+|===
+
+{nbsp} +
+
+== PODCAST
+{nbsp} +
+++++
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W1A405WXKZuNK8iJKDEJ28mInoKfu_5O1YUDEragYfA&font=OpenSans-GentiumBook&lang=en&start_at_end=true&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+++++
+
+== THE TEAM
+{nbsp} +
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| http://twitter.com/sjmaple[image:images/Simon.jpg[], window="_blank"] | | http://twitter.com/shelajev[image:images/Oleg.jpg[], window="_blank"]
+
+| *SIMON MAPLE*
+
+_vJUG Founder/Organiser_
+
+icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto:sjmaple@gmail.com"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
+
+|
+
+| *OLEG ŠELAJEV*
+
+_vJUG Organiser_
+
+icon:twitter[link="http://twitter.com/shelajev"]{nbsp}  icon:envelope[link="mailto:shelajev@gmail.com"]{nbsp}  icon:linkedin[link="https://www.linkedin.com/in/shelajev"]
+
+
+|===
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/Roberto.jpg[] | | image:images/Ivan.jpg[]
+
+| *ROBERTO CORTEZ*
+
+_vJUG Organiser_
+
+icon:twitter[link="http://twitter.com/sjmaple"]{nbsp} icon:envelope[link="mailto:sjmaple@gmail.com"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/simonmaple"]
+
+|
+
+| *IVAN ST. IVANOV*
+
+_vJUG Organiser_
+
+icon:twitter[link="http://twitter.com/ivan_stefanov"]
+
+
+|===
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/Alaina.jpg[] | | image:images/Brian.jpg[]
+
+| *ALAINA TUCKER*
+
+_vJUG Organiser_
+
+icon:twitter[link="http://twitter.com/glitchgirl83"]
+
+|
+
+| *BRIAN VERMEER*
+
+_vJUG Organiser_
+
+icon:twitter[link="http://twitter.com/brianverm"]{nbsp} icon:envelope[link="mailto:brian@brianvermeer.nl"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/brianvermeer"]
+
+
+|===
+
+[cols="^47,^6,^47" frame="none" grid="none"]
+|===
+
+| image:images/lori.jpg[] | |
+
+| *LORI LORUSSO*
+
+_vJUG Organiser_
+
+icon:twitter[link="http://twitter.com/LoriLorusso"]{nbsp} icon:linkedin[link="https://www.linkedin.com/in/lorilorusso"]
+
+|
+
+|
+
+|===
+
+[cols="^1" frame="none" grid="none"]
+|===
+
+| http://virtualjug.github.io/team[btn:[MORE ABOUT THE TEAM]]
+
+|===
+
+{nbsp} +
+
+== BOOKCLUB
+++++
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1x6P3WCjD6xUmoxRW7zP5tQZVfsYEtqc6Aiw0r2xH0S8&font=OpenSans-GentiumBook&lang=en&start_at_end=true&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+++++
+
+
+
+{nbsp} +

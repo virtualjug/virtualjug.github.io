@@ -1,0 +1,77 @@
+= The Virtual Java User Group!
+:page-title: VJUG24 2017
+:page-description: The VJUG24 Conference 2017
+:icons: font
+:experimental:
+
+== VJUG 24 - 25TH OCT 2017
+
+==== All twenty-four individual sessions are available below for your viewing pleasure!
+
+{nbsp} +
+
+==== APAC SESSIONS
+
+{nbsp} +
+[cols="4*^a" frame="none" grid="none"]
+|===
+
+| video::NMTrlv4nQR8[youtube, width="220", height="123"] | video::xMLkbvtGjy0[youtube, width="220", height="123"] | video::P_wMeGx3RWI[youtube, width="220", height="123"] | video::0uTvB5z_w-I[youtube, width="220", height="123"]
+
+| The Art of Simplicity | Turbo Charge CPU Utilization in Fork/Join Using the ManagedBlocker | Using Java 9 modules: chances and challenges | JDK9, Reactive Streams & Akka Streams = Real World Awesome
+
+| video::UHoLuTVX7mg[youtube, width="220", height="123"] | video::LTpWFppFSBM[youtube, width="220", height="123"] | video::ZoXo4fLMigg[youtube, width="220", height="123"] | video::b9Fu1So0bXA[youtube, width="220", height="123"]
+
+| Spring Boot and Kotlin, a match made in Heaven | Testing Java Microservices | Neural Networks WTF | Continuous Delivery Patterns for the Modern Java Developer
+
+|===
+
+{nbsp} +
+
+==== EMEA SESSIONS
+
+{nbsp} +
+[cols="4*^a" frame="none" grid="none"]
+|===
+
+| video::x9HlDCokQJc[youtube, width="220", height="123"] | video::op6fsXRwa9w[youtube, width="220", height="123"] | video::dYsboxvec4k[youtube, width="220", height="123"] | video::2cno9PcQyJg[youtube, width="220", height="123"]
+
+| Java in the 21st Century: are you thinking far enough ahead? | G1GC | The Diabolical Developer’s Guide to Java/JVM Performance Tuning | Polishing the Diamond: Core Library Improvements in Java 9
+
+| video::kxkz8mYdBp0[youtube, width="220", height="123"] | video::UvRaTX8Ut8M[youtube, width="220", height="123"] | video::VnC75JFGozI[youtube, width="220", height="123"] | video::6LT_OW73N2g[youtube, width="220", height="123"]
+
+| 20 Ways to Boost Your Developer Productivity | Java on Mobile | Troubleshooting & Debugging Production Applications in Kubernetes | The end of polling: why and how to transform a REST API into a Data Streaming API
+
+|===
+
+{nbsp} +
+
+==== AMERICAS SESSIONS
+
+{nbsp} +
+[cols="4*^a" frame="none" grid="none"]
+|===
+
+| video::lU_WJGhvoDs[youtube, width="220", height="123"] | video::eF9TWxVwT5M[youtube, width="220", height="123"] | video::Ul9vSWKyXx8[youtube, width="220", height="123"] | video::U27mjVrmwEM[youtube, width="220", height="123"]
+
+| An Overview of Kotlin for Java Programmers | HTTP/2 and What it Means for the Java EE Ecosystem | Radically Reactive Web Apps with Eclipse Vert.x | Front End Development for Back End Developers
+
+| video::XwFdZjDcf4c[youtube, width="220", height="123"] | video::30ffOzrNpag[youtube, width="220", height="123"] | video::psweGFIPS30[youtube, width="220", height="123"] | video::pRoHzRFPGKg[youtube, width="220", height="123"]
+
+| Reactive Spring | “So, what they are talking about these days ?” – Analyzing and Visualizing topics with Graph | Making the Most of Your Gradle Build | Your Serverless Cheatsheet – Getting the Best out of the Serverless Cloud
+
+|===
+
+{nbsp} +
+
+==== FULL REGIONAL RECORDINGS
+
+{nbsp} +
+[cols="3*^a" frame="none" grid="none"]
+|===
+
+| video::A7kvKdxzAkw[youtube, width="318", height="179"] | video::3N7ULkY0h9I[youtube, width="318", height="179"] | video::Xp7mKYLgLwo[youtube, width="318", height="179"]
+
+|===
+
+{nbsp} +

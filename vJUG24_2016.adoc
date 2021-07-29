@@ -1,0 +1,77 @@
+= The Virtual Java User Group!
+:page-title: VJUG24 2016
+:page-description: The VJUG24 Conference 2017
+:icons: font
+:experimental:
+
+== VJUG 24 - 27TH SEPT 2016
+
+==== All twenty-four individual sessions are available below for your viewing pleasure!
+
+{nbsp} +
+
+==== APAC SESSIONS
+
+{nbsp} +
+[cols="4*^a" frame="none" grid="none"]
+|===
+
+| video::HTjK616JT-I[youtube, width="220", height="123"] | video::p70k_ZR53ac[youtube, width="220", height="123"] | video::s9F5Ynf3Wy4[youtube, width="220", height="123"] | video::er9A4Gttv0I[youtube, width="220", height="123"]
+
+| Rise of the Machines – Automate Your Development | An introduction to JVM performance | Java Collections - The Force Awakens | 10 SQL Tricks That You Didn’t Think Were Possible
+
+| video::ktBH_9Di5LY[youtube, width="220", height="123"] | video::BlCD1fXiAo0[youtube, width="220", height="123"] | video::YO9QXbJasSc[youtube, width="220", height="123"] | video::Hn4r7DqWA94[youtube, width="220", height="123"]
+
+| Testing with Spock, the logical choice | MicroProfile, Apache TomEE Now & Beyond | Delivering Unicorns | Reactive Integrations with Akka Streams that Just Work!
+
+|===
+
+{nbsp} +
+
+==== EMEA SESSIONS
+
+{nbsp} +
+[cols="4*^a" frame="none" grid="none"]
+|===
+
+| video::PvvS2lFctQ4[youtube, width="220", height="123"] | video::aW4ewPCHbJc[youtube, width="220", height="123"] | video::OEKcuywm0mk[youtube, width="220", height="123"] | video::5nPJWud4ocE[youtube, width="220", height="123"]
+
+| Emerging Application Architectures with Java and Node.js | Building microservices with Vert.x | Java 9 Modularity in Action | The Seven (More) Deadly Sins of Microservices
+
+| video::C5_2d2Bfg2Y[youtube, width="220", height="123"] | video::fTjT1lgnuvM[youtube, width="220", height="123"] | video::mQAloS7kfGM[youtube, width="220", height="123"] | video::B6jjxF8XIXc[youtube, width="220", height="123"]
+
+| Functional Libraries for Java 8 | Using Java 8 Idioms in Existing Code | Just Enough App Server | Faster Java By Adding Structs (Sort Of)
+
+|===
+
+{nbsp} +
+
+==== AMERICAS SESSIONS
+
+{nbsp} +
+[cols="4*^a" frame="none" grid="none"]
+|===
+
+| video::6tWPWLqSKlk[youtube, width="220", height="123"] | video::TsQeiBJ8xbs[youtube, width="220", height="123"] | video::Oob6QL_SUyU[youtube, width="220", height="123"] | video::kHW667DT8mc[youtube, width="220", height="123"]
+
+| What’s In Java 9 | Panel Discussion: MicroProfile Evolution and Direction | Functional Data Structures and Java 8 | The Art of Angular in 2016
+
+| video::4f9j0LtULiM[youtube, width="220", height="123"] | video::UlDN8Zjjt0M[youtube, width="220", height="123"] | video::gjkZ04HlVPQ[youtube, width="220", height="123"] | video::SE5d5OutT0M[youtube, width="220", height="123"]
+
+| Optional - The Mother of All Bikesheds | A practical RxJava example with Ratpack and Couchbase | Creating efficient microservices with portable binary protocols – gRPC 101 | Cloud native Java
+
+|===
+
+{nbsp} +
+
+==== FULL REGIONAL RECORDINGS
+
+{nbsp} +
+[cols="3*^a" frame="none" grid="none"]
+|===
+
+| video::9ZDmhHmitR0[youtube, width="318", height="179"] | video::OQbqNb77NDU[youtube, width="318", height="179"] | video::fDvH15PffoE[youtube, width="318", height="179"]
+
+|===
+
+{nbsp} +
